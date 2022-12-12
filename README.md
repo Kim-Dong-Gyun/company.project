@@ -48,4 +48,6 @@ ___내용___
 ___
 
 ![메세지](이미지명로)
+![mainBn31](https://user-images.githubusercontent.com/120345830/206955644-f8a9a06a-d5ed-4386-b332-c87d08773d1b.jpg)
+
 ![mainBn11](https://user-images.githubusercontent.com/120345830/206955556-77bcec03-f035-43a3-8ea5-82c05ba08b2e.jpg)
